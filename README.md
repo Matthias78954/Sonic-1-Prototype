@@ -1,3 +1,4 @@
+<!--
 # Sonic 1 Prototype
 Research disassembly of the Sonic 1 prototype that was released by Hidden Palace on December 31st, 2020.
 ## Contribution notes
@@ -22,3 +23,16 @@ Research disassembly of the Sonic 1 prototype that was released by Hidden Palace
 * DeltaWooloo - Documentation
 * Jorge - Additional help
 * Mega Drive Developers Collective - Project host
+-->
+
+This is a copy of the MDDC'S Sonic 1 Prototype 
+Disassembly. The original Disassembly is unfinished
+so i will try to complete my version since 
+the older one is unusable. The Disassembly is work
+in progress, so wait before using it.
+
+![State - Untouched](https://img.shields.io/badge/State-Untouched-red?logo=AssemblyScript)
+
+For feedback you can write in PM or add me on discord
+
+![Username/id - ⚡𝑫. 𝑵𝒊𝒈𝒉𝒕𝒎𝒂𝒓𝒆⚡#1120](https://img.shields.io/badge/Username%2Fid-⚡𝑫._𝑵𝒊𝒈𝒉𝒕𝒎𝒂𝒓𝒆⚡%231120-blue?logo=discord)
